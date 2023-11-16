@@ -1,0 +1,38 @@
+.card-body{
+border-radius: 7px;
+    background: linear-gradient(180deg, #464646 0%, #1D2540 100%);
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.15);
+    color: white;
+}
+.card-title{
+
+color: #444;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    background: transparent;
+}
+.card{
+    border:none;
+    
+    background: transparent;
+}
+.cardtext2 {
+    color: #FFF;
+        text-align: center;
+        font-family: 'Roboto';
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
+.card-text{
+    color: #FFF;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+}
